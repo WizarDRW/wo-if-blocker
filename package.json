@@ -1,0 +1,14 @@
+{
+  "name": "wo-if-blocker",
+  "version": "1.0.0",
+  "description": "If Blocker; It allows you to set up as many if blocks as you want.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wizardorbit"
+  ],
+  "author": "wizardorbit",
+  "license": "MIT"
+}
